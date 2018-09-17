@@ -64,7 +64,7 @@
                     </resources>
                 </configuration>
             </plugin>
-            <!-- end::plugin[] -->
+            <!-- end::plugin[] --001>
 		</plugins>
 	</build>
 
